@@ -1,0 +1,39 @@
+HELP.md
+/target/
+.mvn/
+mvnw*
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+client-hi/src/main/resources/static/
+client-hi/src/main/resources/templates/
+serice-feign/
+service-feign/src/test/
+service-feign/target/generated-sources/
+service-ribbon/src/test/
+service-ribbon/target/generated-sources/
+service-zuul/src/test/
+service-zuul/target/generated-sources/
